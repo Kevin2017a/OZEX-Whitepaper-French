@@ -1,4 +1,4 @@
-# OZEX-Whitepaper-French
+# OZEX Whitepaper (Français)
 
 Contenu
 
@@ -64,113 +64,108 @@ il est limité à générer les nouvelles transactions. Pour ces raisons, tout l
 'Binanace' (121 coins échangeable pour le BTC marché), ‘Huobi’ (115 coins échangeable pour le BTC marché), ‘bitfinex’(37 coins échangeable pour le BTC marché), ‘Okex’ (163 coins échangeable pour le BTC marché), et ‘Upbit’ (121 coins échangeable pour le BTC marché et 35 coins échangeable pour le KRW marché). En plus de ça, il y a des échanges de cryptocurrency latérale milieu en distribuant rare ou des créatifs coins ou des tokens sur le marché.<BR><BR>
 ### 2. OZEX
 
-2.1	What is OZEX?
+2.1	Qu'est-ce que OZEX? 
 
-It is a new compound word of ‘Aussie’ and ‘Exchange’. Australia has Uluru regarded to as the centre of the world and given that, OZEX is named after Aussie (or Oz) and aspires to be the world central coin in the cryptocurrency market.
+C'est un nouveau mot composé de 'Aussie' et 'Échange'. L'Australie a considéré Uluru comme le centre du monde et donné cela, OZEX est nommé d'après Aussie (ou Oz) et aspire à être le coin maîtresse du monde sur le marché de la cryptocurrency.
 <BR><BR>
-2.2	Why OZEX is necessary?
+2.2	Pourquoi OZEX est-il nécessaire?
 
-As the interest towards cryptocurrency has been increased since 2017, the number of ICO coins has also risen (according to icorating.com, there are 92 ICO coins registered from 2017 to February 2018). In the earliest phase of the ICO, once new coins were listed on the exchanges, the value of those coins was soared up to hundreds of thousands of margins in comparison with their initial value, which apparently attracted more investors exponentially. However the problem of the ICO has been exposed, as more investors got into the exchanges. According to the article “initial coin offerings” which Ernst & Young has produced, more than 10% of ICO proceeds are lost as a result of attacks. As one of the cases, Prodeum based in Lithuania started ICO on 25th of January in 2018 and disappeared at night on 28th. Back then, Prodeum promised to “revolutionise the fruit and vegetable industry” by putting it on the Ethereum blockchain. It sought to raise $US 6.5 million dollars (5,400 ETH worth) and vanished after raising only $US 11 dollars in total from investors in ICO. Another, OneCoin was another example which was once regarded highly as promising and is now turned out to be a Ponzi scheme in April, 2017. Before the exposure, it raised roughly $350 million dollars. In addition, Confido is another example, which raised up to $370,000 and vanished as well. Technically, the trust of companies running ICOs has been very controversial. It is significantly hard to figure out the process of development and the actual potentials of companies running ICOs without visible outcomes. Some of those companies misused the unpredictable situations and disappeared with raised money. Thus there are websites investigating those scams such as https://icoindex.com/index/scam and https://isthiscoinascam.com/ 
+Comme l'intérêt pour la cryptocurrency a été augmenté depuis 2017, le nombre de ICO coins a également augmenté (selon icorating.com, il y a 92 ICO coins enregistrées de 2017 à février 2018). Dans la première phase de l'ICO, une fois que de nouvelles coins ont été inscrites sur les échanges, la valeur de ces coins a atteint des centaines de milliers de marges par rapport à leur valeur initiale, qui a apparemment attirer plus d'investisseurs de manière exponentielle. Cependant, le problème de l'ICO a été exposé, comme plus d'investisseurs sont entrés dans les échanges. Selon l'article "offre coin initiale" Produit par Ernst & Young, plus de 10% des produits d'ICO sont perdus à la suite d'attaques.Comme l'un des cas, Prodeum basé en Lituanie a commencé ICO le 25 janvier 2018 et a disparu la nuit du 28. À l'époque, Prodeum a promis de "révolutionner des fruits et légumes industrie" en le mettant sur la blockchain Ethereum. Il a cherché à élever $US 6.5 million dollars (5,400 ETH vaut) et disparu après avoir soulevé seulement $US 11 dollars au total des investisseurs d'ICO. Un autre, OneCoin était un autre exemple qui était autrefois considéré comme hautement prometteur et est maintenant avéré être un système de Ponzi en avril 2017. Avant l'exposition, il a soulevé à peu près $350 million dollars. En outre, Confido est un autre exemple, qui a soulevé jusqu'à $370,000 et a disparu aussi bien. Techniquement, la confiance des entreprises qui dirigent des ICO a été très controversée. Il est très difficile de comprendre le processus de développement et les potentiels réels des entreprises qui dirigent des ICOs sans résultats visibles. Certaines de ces sociétés ont abusé des situations imprévisibles et ont disparu avec l'argent levé. Ainsi il existe des websites enquêter sur ces scams telles que https://icoindex.com/index/scam et https://isthiscoinascam.com/
 
- Most of the investors are not experts. Thus, those who are willing to invest should raise their own insight towards companies who run the ICO with clear vision, low possibilities of fraud, rather than consider to maximize the profits. What OZEX provides is following: 
+La plupart des investisseurs ne sont pas des experts. Ainsi ceux qui sont prêts à investir devraient se faire leur propre idée des entreprises qui dirigent l'ICO avec une vision claire, faibles possibilités de fraude, plutôt que de considérer pour maximiser les profits. Ce que fournit OZEX est le: 
 
-1.	The convenience for ICO investment 
-2.	stability for ICO investment
-3.	Profitability for ICO investment
+1.	La commodité pour l'investissement ICO
+2.	Stabilité pour l'investissement d'ICO
+3.	Rentabilité pour l'investissement d'ICO
 
- To begin with, when it comes to the convenience for ICO investment, OZEX has a variety of experts who have experienced through all the process from the mining to the trading for many years. OZEX offers you to participate in the ICO with selective coins if you hold OZEX tokens and those coins/tokens and ICOs will be assessed and validate by experts with professional insights. Secondly, in terms of the stability for ICO investment, based on the proven knowhow and consultant delivered by cryptocurrency experts, OZEX evaluates the credibility of the companies and their financial and technical visions. Thirdly, with regards to the profitability, it is general that the price of coins and tokens are increased comparing to the initial price once the coins/tokens are listed on the ICO exchanges. For example, the ROI, Return On Investment, of NEO is 5253% and that of Populous is 3821%, however, there is Nimiq, the ROI of which was -153%. The average ROI ETH, according to icostats.com, is 223%, but it is highly possible that the average ROI can be soaring more up than what is believed if the core vision of company and its marketing fuel it up.
+ Pour commencer, quand il s'agit de la commodité pour l'ICO investissement, OZEX a une variété d'experts qui ont vécu tout le processus de mining au commerce pendant de nombreuses années. OZEX vous propose de participer à l'ICO avec des coins sélectives si vous détenez OZEX tokens et ceux coins/tokens et ICOs sera évalué et validé par des experts ayant des connaissances professionnelles. Deuxièmement, en termes de stabilité pour les investissements de l'ICO, basé sur le savoir faire et le consultant éprouvés fournis par des experts en cryptocurrency, OZEX évalue la crédibilité des entreprises et leurs financières et techniques visions. Troisièmement, en ce qui concerne la rentabilité, il est général que le prix de coins et tokens sont augmentés par rapport au prix initial une fois que le coins/tokens sont listés sur les échanges de l'ICO. Par exemple, le ROI(Le retour sur investissement) de NEO est 5253% et celui de Populous est de 3821%, cependant, il y a Nimiq, dont le ROI était de -153%. La moyenne ROI ETH, selon icostats.com, est de 223%, mais il est très possible que le ROI moyen peut monter en flèche plus haut que ce que l'on croit si la vision de base de l'entreprise et son marketing l'alimentent.
 <BR><BR>
-### 3	Blueprint of OZEX
+### 3	Plan de OZEX
 
 
 
-3.1	The structure of OZEX
+3.1	La structure de OZEX
 
-3.1.1	ICO Coin selection
+3.1.1	Sélection d’ICO coins
 
-OZEX team provides a variety range of investment opportunities to the OZEX token holders by continuously selecting the competitive coins (Tokens). Also, the team will evaluate and validate the feasibility of the coins/tokens’ profit model, developers of the coins and their viability. 
+L'équipe OZEX offre une gamme variée d'opportunités d'investissement aux détenteurs de OZEX token en sélectionnant continuellement le compétitif coins (Tokens). De plus, l'équipe évaluera et validera la faisabilité de les coins/tokens’ modèle de profit, les développeurs des coins et leur viabilité. 
 <BR><BR>
-3.1.2	Participating ICO via OZEX
+3.1.2	ICO participant via OZEX
 
-Once you have OZEX tokens in ERC-20 wallet, you are automatically qualified to participate in the range of ICO that OZEX team introduces. New coins will be distributed a hundredth against the value of OZEX token.<BR><BR>
-3.1.3 Smart Contract
+Une fois que vous avez des OZEX tokens dans ERC-20 wallet, vous êtes automatiquement qualifié pour participer à la gamme ICO que l'équipe de OZEX présente. Les nouvelles coins seront distribuées un centième contre la valeur du OZEX tokens.<BR><BR>
+3.1.3 Contrat intelligent
 
-Smart contract will be automatically distributed to OZEX as well as all the benefits will be transparently given through smart contract.
+Contrat intelligent sera automatiquement distribué à OZEX ainsi que tous les avantages seront donnés de manière transparente grâce à un contrat intelligent.<BR><BR>
+3.2	Distribution de tokens<BR>
+La distribution de OZEX tokens via OZEX ICO sera la suivante:
+Si vous avez 10 millions de OZEX coins dans votre OZEX wallet, vous êtes qualifié pour obtenir une centième de nouvelles coins/tokens, que OZEX atteste et valide contre la valeur de OZEX tokens que vous possédez depuis 3 ans. Par exemple, si vous avez 10 000 USD de OZEX tokens vous êtes affecté à avoir 100 USD nouvelles ICO coins que OZEX témoigne et valide. (Notez que le prix de ICO coins et OZEX coins sera fixé au jour du taux de cryptocurrency exchange selon COINMARKETCAP, et le prix standard de ICO coins/tokens sera leur prix du jour suivant de ICO.Les coins/tokens seront distribués comme indiqué dans chaque feuille de route de ICO)
 <BR><BR>
-3.2	Token distribution<BR>
-The distribution of OZEX token via OZEX ICO will be following: 
+3.3	OZEX Capital gestion de fonds
 
-If you have 10 million of OZEX coins in your OZEX wallet, you are qualified to obtain a hundredth worth new coins/tokens, which OZEX testifies and validates against the value of OZEX token you have for 3 years. For instance, if you have 10,000 USD worth OZEX coins, you are allocated to have 100 USD new ICO coins which OZEX testifies and validates.
-(Note, the price of ICO coins and OZEX coins will be set by the day of the cryptocurrency exchange rate according to COINMARKETCAP, and the standard price of ICO coins/tokens will their prices of the next day of ICO. Coins/tokens will be distributed as each ICO roadmap indicates)
-<BR><BR>
-3.3	OZEX Capital Fund Management
+Gestion du fonds de capital de OZEX est formellement décrit dans le whitepaper pour la viabilité commerciale continue, stabilité et gestion fiable de la coopération avec les partenaires.
 
-The OZEX Capital Fund Management is formally described in the white paper for continuous business viability, stability and reliable management of cooperation with partners.
+Le prix de OZEX sera évalué par le marché au même moment que OZEX  est listé sur les places de marché. OZEX devrait être listé en août 2018.OZEX coopère et coopérera avec plusieurs startups de cryptocurrencies externes pour les aider avec leurs plans d'ingénierie et de marketing liés à la blockchain, et dans les retours d'aides, OZEX échange nos partenaires OZEX contre leurs tokens(coins).
 
-The price of OZEX will be evaluated by the market at the same time as OZEX is listed on marketplaces. OZEX is scheduled to be listed in August 2018. OZEX is cooperating and will cooperate with multiple external cryptocurrencies startups to help them with their blockchain related engineering and marketing plans, and in returns of helps, OZEX swaps our partners OZEX for their tokens(coins).
+Selon <3.2 Distribution de tokens> sur ce whitepaper, quand vient le temps de distribuer un nouveau token/coin, L'équipe OZEX calcule et annoncera le montant de la nouvelle cryptocurrency à nos partenaires. Par exemple, si notre partenaire a émis son nouveau token d'une valeur équivalente à 0,1 USD, la liste OZEX prix est 0.02 USD, et les nouveaux tokens à être largué sont 200 millions, OZEX échangera notre partenaire OZEX contre 400 millions du nouveau token deux fois plus. Voir la formule ci-dessous. 
 
-According to  <3.2 Token distribution> on this white paper, when the time comes to distribute a new token/coin, OZEX team will calculate and announce the essentially required amount of the new cryptocurrency from our partners.
-For instance, if our partner has issued their new token in an equivalent value of 0.1 USD, the listed OZEX price is 0.02 USD,  and the new tokens to be airdropped are 200 million, OZEX will swap our partner OZEX for 400 million of the new token, as twice as much. See the formula below. 
+EX) OZEX 0.02 USD: Nouveau token 0.1 USD = 2 Billion: 400 millions
 
-EX) OZEX 0.02 USD : New token 0.1 USD = 2 Billion : 400 million
+En outre, les 200 millions sur un total de 400 millions de nouveaux tokens, sera airdropé aux porteurs OZEX (minimum 1 000 000 OZEX) et autres 200 millions seront accumulés avec OZEX. L'accumulation sera vendue 3 mois après le nouveau token est listé sur un exchange, ou pourrait être détenu par OZEX plus de 3 mois, si cela est nécessaire.
 
-Furthermore, the 200 million out of the total amount of 400 million New token, will be airdropped to OZEX holders (minimum 1,000,000 OZEX) and other 200 million will be accumulated with OZEX. The accumulation will be sold 3 months afterward the new token is listed on an exchange, or could be held by OZEX more than 3 months, if it is necessary.
+Nous OZEX, vendrons les nouveaux tokens en partie sur 6 semaines au moins, ou cela peut prendre plus de temps si nous attendons à ce que le marché fluctue lorsque nous vendrons les nouveaux tokens. Ceci est dû pour éviter toute influence sur la valeur du nouveau token s, les fluctuations du marché et le jeopardy des relations avec nos partenaires. 
+Le numéro de vente de nouveaux tokens, est de sécuriser le nombre de OZEX qui serait l'équivalent de 50%~ 200%, et les 70% d'excédents seront distribués aux détenteurs de OZEX (Aucune minimum quantité n'est requise).
+La raison de la différence élevée entre 50% et 200% est, si elle est fixe, cela peut être un obstacle à la gestion flexible des fonds. De plus, si un détenteur OZEX doit recevoir moins de 0.01ETH, les excédents ne seront pas distribués.
 
-We, OZEX, will sell the new tokens partially over 6 weeks at least, or it may take longer if we expect the market may be fluctuated when we sell the new tokens. This is due to avoid any influences on the new token's value, the market fluctuations, and the jeopardy of the relationships with our partners. 
-The number of selling new token, is to secure back the number of OZEX which would be an equivalent of 50% ~ 200%, and the 70% of surpluses will be distributed to OZEX holders(No minimum quantities are required).
-The reason on high difference between 50% and 200% is, if it is fixed, it can be an obstacle to flexible fund management.
-In addition, if an OZEX holder is to receive less than 0.01ETH, the surpluses will not be distributed.
+Si un total de 2 000 000 $ est distribué et que la circulation est de 20 000 000 000 OZEX, 1 000 000 détenteurs de OZEX peuvent recevoir un token/coin d'une valeur équivalente de 100 USD. C'est un avantage pour tous les détenteurs de OZEX sans limitation de la valeur de OZEX et de la quantité minimale de possession, et les informations de bloc hauteur correspondantes pour les instantanés seront annoncées plus loin.
 
-If a total of $ 2,000,000 is distributed and Total Circulation is 20,000,000,000 OZEX, 1,000,000 OZEX holders can receive token / coin as an equivalent value of 100 USD.  It is a benefit to all OZEX holders without any limitation of the OZEX value and the minimum possession quantity, and the corresponding Block Height information for snapshots will be announced further.
+* Le nombre de tokens et la valeur de token décrits ci-dessus sont tous des exemples pour décrire les parties structurelles.
 
-* The number of tokens and the value of the tokens described above are all examples to describe the structural parts.
+Le plan maintiendra OZEX compétitif et durable, aussi va stimuler la continuité et l'évolutivité de l'entreprise. Si la circulation totale de OZEX est élevée, OZEX pourra accorder une certaine quantité de coin OZEX, bien que ce sera un très simple montant. 
+Bien sur, en raison de la caractéristique de la décentralisation, OZEX, un ERC-20 Token, ne peut être émis au-delà de HARDCAP, mais il est surement estimé que si la circulation totale est élevée, le prix de OZEX a déjà augmenté de manière significative.
 
-The plan will keep OZEX competitive and sustain, also will boost the business continuity and scalability. If OZEX's total circulation is high, OZEX will be able to tune in a certain amount of OZEX coin, although it will be a very mere amount. 
-Of course, due to the characteristic of decentralization, OZEX, an ERC-20 Token, can not be issued beyond HARDCAP, but it is surely estimated that if the total circulation is going high, the price of OZEX has already increased significantly.
+### 4.	Compétitivité
 
-### 4.	Competitivity
-
-30 tokens will be selected by OZEX team and experts with regards to the roadmap and the number will increase to 50 tokens and will establish its own OZEX Alliance. The team is developing the secure and convenient way of exchanges considering the purpose of use and tastes for the investors and will ally with secure and robust coins to produce a large scale of alliance. OZEX is already guaranteed to be listed on 2 Chinese based exchanges unlike any other unguaranteed ICO coins, and we aim to list OZEX on big exchanges by November 2018.
+30 tokens sera sélectionné par l'équipe de OZEX et des experts en ce qui concerne la feuille de route et le nombre passera à 50 tokens et établira sa propre alliance OZEX. L'équipe développe le moyen sûr et pratique de exchanges compte tenu du but de l'utilisation et des goûts d`investisseurs et s'alliera avec des coins sûres et robustes pour produire une large échelle d'alliance. OZEX est déjà garanti d'être listé sur 2 exchanges basées en Chine, contrairement à toutes les autres ICO coins non garanties, et nous visons à lister OZEX sur les grands exchanges d'ici novembre 2018.
 
 
 <BR><BR>
-### 5. Road Map
+### 5. Feuille de route
 
-5.1 Project Roadmap
+5.1 Projet Feuille de route
 
-March 2017 - OZEX Platform Development Started
+Mars 2017 - Début du développement de la plateforme OZEX
 
-March 2018 - 1st Private Sale (2.5 billion OZEX) Complete​d.
+Mars 2018 - 1ère privée vente (2,5 billion OZEX) Complet.
 
-April 2018 - OZEX Presale
+Avril 2018 - Prévente (Presale) OZEX
 
-June 2018 - OZEX ICO Start
+Juin 2018 - Début OZEX ICO
 
-June~August 2018 - OZEX will be listed on 2 exchanges.
+Juin~Août 2018 - OZEX sera listé sur 2 exchanges.
 
-September 2018 - Complete MainNet Test
+Septembre 2018 - Terminer MainNet Test
 
-Oct 2018 - Distribute OZEX Personal Wallets
+Oct 2018 - Distribuer des Wallets personnels OZEX 
 
-Nov 2018 - OZEX will be listed on big exchanges.
+Nov 2018 - OZEX sera listé en gros exchanges.
 
-2018 ~ 2019 - 30 new ICOs with OZEX
+2018 ~ 2019 - 30 nouvelles ICOs avec OZEX.
 
-Dec 2020 - 50 new ICOs with OZEX
+Décembre 2020 - 50 nouvelles ICOs avec OZEX
 <BR><BR><BR><BR>
-5.2 ICO Road map
+5.2 ICO Feuille de route
 
-19th Apr 2018 - Presale Start (Presale Price : 1OZEX = US$0.004)
+19 avril 2018 - Début de prévente (Prix de prévente: 1 OZEX = 0.004$)
 
-6th May 2018 - Presale End
+6 mai 2018 - Fin de prévente.
 
-20th Jun 2018 - ICO Start (ICO Price : 1OZEX = US$0.01)
+20 juin 2018 - Début de ICO (Prix de ICO: 1 OZEX = 0,01$)
 
-28st Aug 2018 - ICO End
+28 août 2018 - Fin de ICO
 
 <BR><BR>
-### 6. Team introduction
-[Team introduction](https://ozex.io/ko/#team)
+### 6. Introduction de l'équipe
+[Introduction de l'équipe](https://ozex.io/ko/#team)
 
 
-# OZEX Whitepaper (English)
+#OZEX Whitepaper (Français)
