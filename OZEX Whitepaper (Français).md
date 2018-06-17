@@ -168,4 +168,4 @@ Décembre 2020 - 50 nouvelles ICOs avec OZEX
 [Introduction de l'équipe](https://ozex.io/ko/#team)
 
 
-#OZEX Whitepaper (Français)
+# OZEX Whitepaper (Français)
